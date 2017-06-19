@@ -1,0 +1,2 @@
+# myWebstormSettings
+settings.jar
